@@ -3,11 +3,15 @@ body {
 }
 .jumbotron {
   padding: 5rem 1rem;
+  background-color: #202020
   color: #fff;
 }
 .carousel {
   background-color: #202020;
   color: #fff;
+}
+#projects {
+  background-color: #202020
 }
 .signin {
   padding: 5rem 1rem;
