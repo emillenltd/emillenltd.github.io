@@ -1,15 +1,21 @@
 body {
-  min-height: 2000px;
+  min-height: auto;
 }
 .jumbotron {
   padding: 5rem 1rem;
-  background-color: #202020;
   color: #fff;
 }
 .carousel {
   background-color: #202020;
   color: #fff;
 }
-#projects {
+.signin {
+  padding: 5rem 1rem;
   background-color: #202020;
+  color: #fff;
+}
+.signup {
+  padding: 5rem 1rem;
+  background-color: #202020;
+  color: #fff;
 }
